@@ -1,7 +1,8 @@
 # Project-01
 
-# Your Name
+# Lindsey Surd
 
-# Your Github username
+# lsurd
 
-# List the things you added for points
+# List the things you added for points:
+- For the project I created a storyline where you work as an apprentice who got in trouble for goofing off, and for that you have to do some community service where the player has to make the choice between helping a local shop keeper by the name of Thyme, or the Tavern owner Vasira. (this takes the place of one of the major decisions of the story) . The story contains over 8 knots, that reflect the choices made by the player such as ringing the bell too many times upsetting Thyme if the player where to go for her route. There is also a loop in Thyme's route as it randomizes the items the player has to organize for their community service. For other points I've included over 16 passages (passages are what I'm assuming to be different routes and options for the player) as well as multiple usages of conditionals. For the conditionals I included one's that the player only sees as they've entered certain areas, such as in the tavern route where if the player enters the storage room they will get a hint and bag of treats from Vasira upon exiting. If the player remains in the main area without checking the back room, they don't get the treats from Vasira, making it so they take a bit longer to finish the job. There are also conditionals within the text itself in the route with Thyme, where if you wait for Thyme once you've finished she mentions you learning to value patience if you clicked the bell too many times in the beginning (this functions to show players where they have been and a way to keep track of movement). There is also an implementation of an inventory if the player first visits and tavern and takes the coins sat on a shelf, and then returns to Thyme's. These coins being in the players inventory allows for them to purchase items from Thyme before working the job, which then also triggers new dialouge from your professor and Thyme. 
